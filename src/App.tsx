@@ -326,7 +326,7 @@ function App() {
                   {/* Placeholder for professional photo - replace src with your actual photo */}
                   <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600">
                     <img
-                      src="/src/mysantosh.png"
+                      src="/public/mysantosh.png"
                       alt="Mysanthosh Karnati - Data Analyst"
                       className="w-full h-full object-cover"
                     />
